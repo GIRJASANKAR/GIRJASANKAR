@@ -10,8 +10,6 @@ I'm a self-taught passionate Software Engineer from India 🇮🇳
 
 - 💼 Software Engineer at [Open Financial Technology](https://open.money/)
 
-- 📈 Built github-readme-stats
-
 - ❤️ I love writing React,Angular and building fun experiments on type-level
 
 - 💬 Ask me about anything at tiwarigirjashankar36@gmail.com
