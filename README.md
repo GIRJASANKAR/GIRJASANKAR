@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=180&section=header&text=Girja%20Sankar%20Tiwari&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Frontend%20Architect%20•%20System%20Designer%20•%20Performance%20Engineer&descSize=16&descAlignY=52" alt="header" />
   
   <!-- Animated Typing with Multiple Lines -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=1000&height=100&lines=🏗️+Building+Financial+Infrastructure+at+Scale;💰+$35+Billion+Transactions+•+3.5M%2B+Users+•+99.99%25+Uptime;🚀+React+|+Next.js+|+TypeScript+|+GraphQL+|+System+Architecture;⚡+4%2B+Years+of+Frontend+Excellence+•+₹4k+Cr%2B+AUM+Managed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🏗️+Building+Financial+Infrastructure+at+Scale;💰+$35+Billion+Transactions+•+3.5M%2B+Users;🚀+React+|+Next.js+|+TypeScript+|+GraphQL;⚡+4%2B+Years+of+Frontend+Excellence&font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=900&height=100" alt="Typing SVG" />
 
   <!-- Professional Contact Badges -->
   <div>
